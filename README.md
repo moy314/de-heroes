@@ -12,3 +12,7 @@ este es un mensaje actualizado en github
 
 
 ### segunda acualizacion desde github
+### actualizando desde VS code
+
+actualizaxion desde VS code
+
